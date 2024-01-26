@@ -10,7 +10,7 @@
 body {
   display: flex;
   justify-content: center;
-  background-color: rgb(35, 88, 145);
+  background: linear-gradient(to right, rgb(2, 78, 86), #4f115a);
 }
 
 p {
@@ -97,7 +97,7 @@ button {
 
 .divLi i {
   font-size: 22px;
-  color: brown;
+  color: rgb(242, 8, 8);
 }
 
 li {
@@ -122,7 +122,4 @@ li {
     padding: 0px;
   }
 
-  p {
-    font-size: x-large;
-  }
 }
