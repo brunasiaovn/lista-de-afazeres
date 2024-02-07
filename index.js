@@ -45,9 +45,6 @@ function loadItens() {
   })
 }
 
-
-
-
 function insertItemTela(text, status, i) {
   const li = document.createElement('li')
   
